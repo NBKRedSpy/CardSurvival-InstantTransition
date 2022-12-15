@@ -1,7 +1,9 @@
 # Instant Transition
-Removes the black 3-5 second "loading" screen when moving in and out of structures like Sheds, Mud Huts, etc.
+Removes the black "loading" screen when moving in and out of structures like Sheds, Mud Huts, etc.
 
-Greatly speeds up going in and out of structures to the point that it is nearly instant.
+Can greatly speed up entering and exiting structures.
+
+See comparison video here:  https://youtu.be/f0I97xgeN3U
 
 # Installation 
 This mod requires the BepInEx mod loader.
