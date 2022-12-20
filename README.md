@@ -3,7 +3,7 @@ Removes the black "loading" screen when moving in and out of structures like She
 
 Can greatly speed up entering and exiting structures.
 
-See comparison video here:  https://youtu.be/f0I97xgeN3U
+See comparison video here:  https://youtu.be/JPIbPPOKS4c
 
 # Installation 
 This mod requires the BepInEx mod loader.
