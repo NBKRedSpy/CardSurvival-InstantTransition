@@ -6,6 +6,11 @@ Can greatly speed up entering and exiting structures.
 See comparison video here:  https://youtu.be/JPIbPPOKS4c
 
 # Installation 
+This section describes how to manually install the mod.
+
+If using the Vortex mod manager from NexusMods, these steps are not needed.  
+
+## Overview
 This mod requires the BepInEx mod loader.
 
 ## BepInEx Setup
