@@ -3,7 +3,7 @@ Removes the black "loading" screen when moving in and out of structures like She
 
 Can greatly speed up entering and exiting structures.
 
-See comparison video here:  https://youtu.be/JPIbPPOKS4c
+See comparison video here:  https://youtu.be/HMODoLlpwf4
 
 # Installation 
 This section describes how to manually install the mod.
