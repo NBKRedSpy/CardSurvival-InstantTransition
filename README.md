@@ -58,6 +58,9 @@ Safe to add and remove from existing saves.
 <a href="https://www.flaticon.com/free-icons/fast" title="fast icons">Fast icons created by Freepik - Flaticon</a>
 
 # Change Log 
+## 1.1.0  
+* Changed mod to modify the GraphicsManager.SetLoading return value instead of replacing the original function.  Should not affect anything, but will be a less intrusive patch.
+
 ## 1.0.0  
 * Initial Release
 

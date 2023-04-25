@@ -12,13 +12,9 @@ namespace InstantTransition
     public static class Transition_GraphicsManager_Patch
     {
 
-        public static void Prefix(GraphicsManager __instance, ref float __result, ref bool __runOriginal, bool _Loading, ref bool ___LoadingScreen)
+        public static void Postfix(GraphicsManager __instance, ref float __result)
         {
-            ___LoadingScreen = _Loading;
-            __instance.FadeToBlack.SetFade(FadeToBlackTypes.None, "", false);
             __result = 0f;
-            __runOriginal = false;
-
         }
     }
 }
